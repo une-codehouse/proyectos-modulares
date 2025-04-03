@@ -3,11 +3,11 @@
 Este repositorio agrupa proyectos modulares y sus autores.
 
 ## Gestor proyectos modulares 
-- [Miriam Tamara Hernandez Garcia](https://github.com/Tamagochi02)
+- [Miriam Tamara Hernandez Garcia](https://github.com/Miri-HG)
 - [Silvia Jazmin Castellanos Ornelas](https://github.com/JazOki)
 - [Andrea Sarahi Valdivia Martinez](https://github.com/Andyzki)
 
-### [FullStack](https://github.com/Tamagochi02/web_modular3)
+### [FullStack](https://github.com/Miri-HG/web_modular3)
 - **Lenguajes**: JavaScript, JSX, CSS
 - **Framework**: Next.JS
 - **Database**: PlanetScale (MySQL)
@@ -15,7 +15,7 @@ Este repositorio agrupa proyectos modulares y sus autores.
 - **IA**: IBM Watson Assistant
 - **Otras Tecnologias**: Tailwind, IronSession, Prisma
 
-### [Cliente Mobile](https://github.com/Tamagochi02/movil_modular)
+### [Cliente Mobile](https://github.com/Miri-HG/movil_modular3)
 - **Lenguaje**: Dart
 - **SDK**: Flutter
 
